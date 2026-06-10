@@ -27,7 +27,7 @@ cycler==0.12.1
 DataRecorder==3.6.2
 Django==6.0
 DownloadKit==2.0.7
-DrissionPage==4.1.1.4
+DrissionPage==4.1.1.2
 et_xmlfile==2.0.0
 exceptiongroup==1.3.0
 execnet==2.1.2
